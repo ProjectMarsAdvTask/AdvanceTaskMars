@@ -40,6 +40,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="My_Test_Cases\" />
     <Folder Include="Screenshots\" />
   </ItemGroup>
 
