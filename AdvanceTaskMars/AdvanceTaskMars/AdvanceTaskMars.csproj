@@ -40,8 +40,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="NUnitTests\Profile\" />
-    <Folder Include="Pages\Profile\" />
     <Folder Include="Screenshots\" />
   </ItemGroup>
 
